@@ -1,0 +1,67 @@
+#main{
+	width: 100%;
+	height: 100%;
+}
+
+#header{
+	width: 100%;
+	height: 100%;
+
+}
+#searchbutton{
+	text-decoration: none;
+}
+
+#searchbox{
+	padding: 20px;
+	margin-bottom: 8px;
+	text-decoration: none;
+}
+
+#links{
+	font-size: 17px;
+}
+#movielist{
+	margin-top: 200px
+}
+#posters{
+	border-radius: 20px;
+	border: 2px solid black;
+	border-spacing: 2px;
+	padding: 2px;
+	margin: 2px;
+	text-align: center;
+}
+
+.btn-lg-4, .btn, .btn-default{
+	margin:20px solid black;
+}
+#in_theaters,#box_office,#top_rentals,#new_release,#current_release,#opening_movies,#upcoming_dvd,#about_us{
+	margin: 2px;
+}
+#thumbnails{
+	margin-right: 100px;
+}
+#mem1{
+	border: 3px solid black;
+	border-radius: 20px;
+	margin:200px;
+	margin-right: 700px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 100;
+}
+#mem2{
+	border: 3px solid black;
+	border-radius: 20px;
+	margin:200px;
+	margin-left: 700px;
+	margin-top: -700px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 100;
+}
+#back{
+	margin-top: -1000px;
+	margin:50px
+}
